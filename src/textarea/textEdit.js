@@ -7,6 +7,7 @@ class TextEdit extends React.Component {
     super(props);
   }
 
+
   render() {
     return (
       <div >
@@ -14,5 +15,7 @@ class TextEdit extends React.Component {
     );
   }
 }
+
+
 
 export default TextEdit;
